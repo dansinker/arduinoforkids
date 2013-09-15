@@ -8,7 +8,7 @@ a {
 }
 
 p {
-	font-size: 1.3em;
+	font-size: 1.5em;
 	font-weight: 100;
 }
 
@@ -20,7 +20,10 @@ nav li {
 	display: inline-block;
 	padding-right: 10px;
 	padding-left: 10px;
-	font-size: 1.5em;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	font-size: 1.3em;
+	font-weight: 100;
 }
 
 nav li a {
