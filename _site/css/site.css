@@ -14,6 +14,7 @@ a:hover {
 p {
 	font-size: 1.5em;
 	font-weight: 100;
+	line-height: 1.5em;
 }
 
 nav {
@@ -43,6 +44,28 @@ nav li a:hover {
 h2.tagline {
 	font-size: 1.5em;
 	font-weight: 300;
+}
+
+section, header {
+	padding-left: 50px;
+}
+
+header {
+	height: 150px;
+}
+
+section {
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
+
+section p {
+	max-width: 900px;
+}
+
+section.description {
+	background-color:#7a8da6;
+	color: #f3f8ff;
 }
 
 section.articlelist ul {
