@@ -7,6 +7,10 @@ a {
 	color: #5a72aa;
 }
 
+a:hover {
+	color: #5a72aa;
+}
+
 p {
 	font-size: 1.5em;
 	font-weight: 100;
@@ -30,9 +34,20 @@ nav li a {
 	color: #f3f8ff;
 }
 
+nav li a:hover {
+	color: #f3f8ff;
+	text-decoration: none;
+	background-color: #b1c8d6
+}
+
 h2.tagline {
 	font-size: 1.5em;
 	font-weight: 300;
+}
+
+section.articlelist ul {
+	padding: 0;
+	margin: 0;
 }
 
 section.articlelist li {
