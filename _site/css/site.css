@@ -1,6 +1,6 @@
 body {
 	background-color:#f3f8ff;
-	color: #615faa;
+	color:#5a72aa;
 }
 
 a {
@@ -9,10 +9,11 @@ a {
 
 p {
 	font-size: 1.3em;
+	font-weight: 100;
 }
 
 nav {
-	background-color: #615faa;
+	background-color: #5a72aa;
 }
 
 nav li {
