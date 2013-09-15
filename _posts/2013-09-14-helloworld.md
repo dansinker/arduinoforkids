@@ -1,6 +1,7 @@
 ---
 layout: layout
 title: Welcome to Arduino for Kids
+excerpt: This is the excerpt for this piece.
 ---
 <h2>{{ page.title }}</h2>
 <div class="article_body">

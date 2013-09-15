@@ -1,0 +1,32 @@
+body {
+	background-color:#f3f8ff;
+	color: #615faa;
+}
+
+a {
+	#615faa;
+}
+
+p {
+	font-size: 1.3em;
+}
+
+nav {
+	background-color: #615faa;
+}
+
+nav li {
+	display: inline-block;
+	padding-right: 10px;
+	padding-left: 10px;
+	font-size: 1.5em;
+}
+
+nav li a {
+	color: 	color: #f3f8ff;
+}
+
+h2.tagline {
+	font-size: 1.5em;
+	font-weight: 300;
+}
