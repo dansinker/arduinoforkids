@@ -21,6 +21,10 @@ nav {
 	background-color: #5a72aa;
 }
 
+nav ul {
+	margin-left: 40px;
+}
+
 nav li {
 	display: inline-block;
 	padding-right: 10px;
@@ -41,6 +45,8 @@ nav li a:hover {
 	background-color: #b1c8d6
 }
 
+
+
 h2.tagline {
 	font-size: 1.5em;
 	font-weight: 300;
@@ -51,7 +57,11 @@ section, header {
 }
 
 header {
-	height: 150px;
+	height: 100px;
+}
+
+div#titlearea {
+
 }
 
 section {
